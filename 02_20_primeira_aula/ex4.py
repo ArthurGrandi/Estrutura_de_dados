@@ -11,5 +11,5 @@ matriz = np.zeros((5,5),dtype=int)
 
 np.fill_diagonal(matriz,1)
 
-print("matriz resultante:")
+print("matriz resultante: \n")
 print(matriz)
